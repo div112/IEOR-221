@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[78]:
+# This uses Monte Carlo Markov Chain simulation to price options along with the antithetic sampling and control variate methods to price options. 
 
 
 ##importing libs
