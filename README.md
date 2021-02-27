@@ -1,4 +1,6 @@
 # Options-Pricing
-European/American options pricing using Black Scholes Merton, Antithetic sampling, Control variate methods. Monte Carlo Markov chain simulation along with Options Greeks calculator. 
+This is course material from UC Berkeley's graudate level course on Financial Engineering. 
 
-Antithetic sampling and control variate are used as variance reduction methods while pricing. 
+It comprises a European/American options pricing calculator using Black Scholes Merton, Antithetic sampling, and Control variate methods. Also contains a Monte Carlo Markov chain simulation along with Options Greeks calculator for European options as well as Binomial tree pricing for American options. 
+
+The antithetic sampling and control variate methods are used as variance reduction methods while pricing. 
